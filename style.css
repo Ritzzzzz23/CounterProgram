@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: rgb(240, 221, 221);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+label{
+    width: 20px;
+    height: 20px;
+    font-size: 80px;
+    padding: 20px;
+    margin: 200px;
+    border-radius: 250%;
+    background-color: rgb(179, 179, 255);
+    color: white;
+    box-shadow: 20px 20px 10px grey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.myBtn{
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: rgb(179, 179, 255);
+    box-shadow: 5px 5px 5px grey;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.myBtn:hover{
+    background-color: rgb(1, 57, 105);
+}
+
+
